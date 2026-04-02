@@ -16,4 +16,4 @@ Business Analyst | AI &amp; Machine Learning | Innovation Strategy. Dublin | MSc
 **Agile Delivery**: Used JIRA for sprint tracking and stakeholder requirements workshops.
 
 [📊 View Jupyter Notebook](notebook/CLV_Prediction.ipynb)  
-[📈 Live Streamlit Demo](https://your-streamlit-link) (add when ready)
+[📈 Live Streamlit Demo](https://your-streamlit-link) 
